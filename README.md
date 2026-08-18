@@ -4,7 +4,6 @@ This repository contains the R scripts data used to reproduce the main analyses 
 The study integrates public GEO datasets (bulk transcriptomics and scRNA-seq) with experimental validation in human granulosa cells to identify and validate hub genes linked to ER stress programs in PCOS.
 
 Contents
-1) Code
 R scripts for:
 GEO data download and preprocessing (probe annotation, log2 transform, normalization)
 Batch correction (ComBat)
